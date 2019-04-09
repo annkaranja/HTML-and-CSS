@@ -1,13 +1,13 @@
 .body{
 
-color:#fff;
+color: grey;
 font-family:arial;
 
 
 }
 
 
-.header{
+.nav{
 
   height: 50px;
   background-color:#dd9f33;
@@ -55,7 +55,7 @@ list-style:none;
 
 .content{
   width: 1080px;
-  background-color: #fff;
+  background-color: linen;
   margin: 0 auto;
   min-height: 500px;
   padding: 60px;
@@ -64,7 +64,7 @@ list-style:none;
 }
 
 
-.content .featured{
+.content .son{
   float: left;
   margin-right: 40px;
   margin-bottom: 40px;
